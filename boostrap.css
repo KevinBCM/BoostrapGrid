@@ -1,0 +1,36 @@
+/* * {
+    margin: 0;
+} */
+
+.row div {
+    margin: 0.25rem
+}
+.col {
+    background: rgb(230,228,38);
+background: linear-gradient(171deg, rgba(230,228,38,1) 5%, rgba(235,15,67,1) 47%, rgba(58,210,255,1) 82%);
+}
+
+.col-sm {
+    background: rgb(235,228,87);
+background: radial-gradient(circle, rgba(235,228,87,1) 0%, rgba(233,148,226,1) 90%);
+}
+
+.col-md {
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(29,214,253,1) 50%, rgba(142,252,69,1) 100%);
+}
+
+.col-lg {
+    background: rgb(63,239,251);
+background: radial-gradient(circle, rgba(63,239,251,1) 0%, rgba(239,110,207,1) 100%, rgba(201,27,196,1) 100%);
+}
+
+.col-xl {
+    background: rgb(221,146,56);
+background: linear-gradient(0deg, rgba(221,146,56,1) 0%, rgba(243,253,45,1) 100%);
+}
+
+.col-xxl {
+    background: rgb(230,45,45);
+background: linear-gradient(90deg, rgba(230,45,45,1) 0%, rgba(187,238,10,1) 34%, rgba(0,197,255,1) 100%);
+}
